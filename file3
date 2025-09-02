@@ -1,0 +1,8 @@
+ i am pushing the file form local to remote reop by way ssh 
+ first of crete ssh key use  the following command
+ 	ssh-keygen
+
+now got to like this path /c://user/public/.ssh/id_ed25519 (publick key)
+then go to github account click on your profile -> setting -> SSH and GPG key -> genreate key
+:
+
